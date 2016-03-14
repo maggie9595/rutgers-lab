@@ -5,3 +5,11 @@
 .margin-left-20 {
 	margin-left: 20px;
 }
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}

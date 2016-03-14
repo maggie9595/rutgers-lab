@@ -3114,7 +3114,8 @@ td, th {
 .collection a.collection-item {
   display: block;
   transition: .25s;
-  color: #26a69a;
+  color: black;
+  font-weight: 500;
 }
 
 .collection a.collection-item:not(.active):hover {
