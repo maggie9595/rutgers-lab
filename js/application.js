@@ -8,4 +8,6 @@ $(document).ready(function(){
 	// Initializing material boxes
 	$('.materialboxed').materialbox();
 
+	// Initializing image carousels
+	$('.carousel').carousel();
 })
