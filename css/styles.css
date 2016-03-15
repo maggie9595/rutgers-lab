@@ -13,3 +13,7 @@
 .float-right {
 	float: right;
 }
+
+img {
+    image-orientation: from-image;
+}
